@@ -3,5 +3,7 @@
 # TEMA : DETEKSI SENYUM PADA MANUSIA
 
 # Nama Kelompok :
-##  Dhimas Prakasa Henjo (2009106015) KETUA
-##  Giovani Chadavi Hidayat (2009106001)
+###  Dhimas Prakasa Henjo (2009106015) KETUA
+###  Giovani Chadavi Hidayat (2009106001)
+
+Job Desk
